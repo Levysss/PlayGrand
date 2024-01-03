@@ -1,0 +1,15 @@
+D:\PlayGrand\Program2\Program2\bin\Debug\net8.0\Program2.exe
+D:\PlayGrand\Program2\Program2\bin\Debug\net8.0\Program2.deps.json
+D:\PlayGrand\Program2\Program2\bin\Debug\net8.0\Program2.runtimeconfig.json
+D:\PlayGrand\Program2\Program2\bin\Debug\net8.0\Program2.dll
+D:\PlayGrand\Program2\Program2\bin\Debug\net8.0\Program2.pdb
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfoInputs.cache
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfo.cs
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.csproj.CoreCompileInputs.cache
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.sourcelink.json
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.dll
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\refint\Program2.dll
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.pdb
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\Program2.genruntimeconfig.cache
+D:\PlayGrand\Program2\Program2\obj\Debug\net8.0\ref\Program2.dll
