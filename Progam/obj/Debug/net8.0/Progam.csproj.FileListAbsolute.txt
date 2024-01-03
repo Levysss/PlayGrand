@@ -1,0 +1,14 @@
+D:\PlayGrand\Progam\bin\Debug\net8.0\Progam.exe
+D:\PlayGrand\Progam\bin\Debug\net8.0\Progam.deps.json
+D:\PlayGrand\Progam\bin\Debug\net8.0\Progam.runtimeconfig.json
+D:\PlayGrand\Progam\bin\Debug\net8.0\Progam.dll
+D:\PlayGrand\Progam\bin\Debug\net8.0\Progam.pdb
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.GeneratedMSBuildEditorConfig.editorconfig
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.AssemblyInfoInputs.cache
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.AssemblyInfo.cs
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.csproj.CoreCompileInputs.cache
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.dll
+D:\PlayGrand\Progam\obj\Debug\net8.0\refint\Progam.dll
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.pdb
+D:\PlayGrand\Progam\obj\Debug\net8.0\Progam.genruntimeconfig.cache
+D:\PlayGrand\Progam\obj\Debug\net8.0\ref\Progam.dll
