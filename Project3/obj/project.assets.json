@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PlayGrand\\Program1\\Program2\\Program2.csproj",
-      "projectName": "Program2",
-      "projectPath": "D:\\PlayGrand\\Program1\\Program2\\Program2.csproj",
+      "projectUniqueName": "D:\\PlayGrand\\Project3\\Project3.csproj",
+      "projectName": "Project3",
+      "projectPath": "D:\\PlayGrand\\Project3\\Project3.csproj",
       "packagesPath": "C:\\Users\\srlev\\.nuget\\packages\\",
-      "outputPath": "D:\\PlayGrand\\Program1\\Program2\\obj\\",
+      "outputPath": "D:\\PlayGrand\\Project3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\srlev\\AppData\\Roaming\\NuGet\\NuGet.Config"

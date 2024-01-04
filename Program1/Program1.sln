@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1", "Program1\Progra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2", "Program2\Program2.csproj", "{CAA5C1BB-864E-4C48-9DC2-8DE081411978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "..\Project3\Project3.csproj", "{729146DE-EF42-4D95-8901-2FCEF057995B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{CAA5C1BB-864E-4C48-9DC2-8DE081411978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAA5C1BB-864E-4C48-9DC2-8DE081411978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAA5C1BB-864E-4C48-9DC2-8DE081411978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729146DE-EF42-4D95-8901-2FCEF057995B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729146DE-EF42-4D95-8901-2FCEF057995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729146DE-EF42-4D95-8901-2FCEF057995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729146DE-EF42-4D95-8901-2FCEF057995B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
